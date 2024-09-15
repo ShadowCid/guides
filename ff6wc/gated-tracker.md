@@ -35,9 +35,9 @@ You will see the following if the tracker is successfully connected:
 If you are seeing this ensure step 0 is completed and the game is running.
 
 If you have completed step 0 it could be you are running a newer version of SNI which the auto tracker has trouble connecting to. To resolve the issue you need to create an environment variable and then restart SNI. To create the environment variable
-- Open start menu and search "environment" ![start menu search](https://i.imgur.com/yRvWu6D.png)
-- Click on environment Variables button ![environment menu](https://i.imgur.com/OQiJB6x.png)
-- Create a new user variable ![new user variable](https://i.imgur.com/TjC3hhb.png)
+- Open start menu and search "environment" <br/> <img src="https://i.imgur.com/yRvWu6D.png" style="width:600px;" />
+- Click on the Environment Variables button <br/> <img src="https://i.imgur.com/OQiJB6x.png" style="width:400px;" />
+- Create a new user variable by clicking on the New button <br/> <img src="https://i.imgur.com/TjC3hhb.png" style="width:400px;" />
   - use the name `SNI_USB2SNES_LISTEN_ADDRS`
   - set the value to `0.0.0.0:23074,0.0.0.0:8080`
   - click `Ok` to create the variable.
