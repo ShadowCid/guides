@@ -13,7 +13,7 @@ The following guide must be complete in its entirety for the tracker to work:
 - Start the game
 
 # Step 2 - Open the tracker
-Visit https://ff6wctracker.com/auto
+Visit https://tracker.ff6worldscollide.com/
 - If receiving a disconnect message, it is possible an error has occurred
 
 <br>
@@ -60,4 +60,4 @@ If having issues connecting to SNI please do the following:
 - Restart SNI
 - Right click SNI > Click "Show Console"
 - Restart the tracker and get to the "Disconnected" state
-- Post the log to the [FF6WC discord](https://ff6wc.com/discord) `#trackers` channel
+- Post the log to the [FF6WC discord](https://discord.gg/5MPeng5) `#trackers` channel
